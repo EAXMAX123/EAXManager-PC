@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/EAXMAX123/EAXManager-PC/releases/download/v1.0.1/EAXManager-PC-v1.0.1.zip",
-  "notes": "更新提示改到窗口底部（黑条）；书架加了刷新按钮；收藏、追更、分类支持右键操作"
+  "version": "1.7.2",
+  "url": "https://github.com/EAXMAX123/eam-update/releases/download/v1.7.2/EAXManager-Windows-v1.7.2.zip",
+  "notes": "统一版本：新增 Rule34、SankakuBlack 两个源，Rule34 不填 Key 也能搜；新增赞助者主题配色与角色皮肤；修复版本公告弹窗。"
 }
