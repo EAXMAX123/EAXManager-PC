@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/EAXMAX123/eam-update/releases/download/win-v1.2.0/EAXManager-Windows-v1.2.0.zip",
-  "notes": "电脑版 v1.2.0：新增 Rule34、SankakuBlack 两个源；赞助者主题配色与角色皮肤；修复版本公告弹窗。"
+  "version": "1.2.1",
+  "url": "https://github.com/EAXMAX123/eam-update/releases/download/win-v1.2.1/EAXManager-Windows-v1.2.1.zip",
+  "notes": "电脑版 v1.2.1：修复最小化关闭后窗口位置被记成屏幕外、再次打开像打不开的问题；阅读窗口同步处理。"
 }
